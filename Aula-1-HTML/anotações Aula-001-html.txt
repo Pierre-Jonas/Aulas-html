@@ -1,0 +1,10 @@
+1."<!DOCTYPE html>": indica tipo de documento, nesse caso html.
+
+2.sempre que uma tag for aberta ela precisa ser fechada.
+
+3."<html>": código semântico do html, necessário para o código funcionar
+
+4."<head>": configurações do código, como título e etc.
+
+5."<body>": tudo que será exibido no site.
+
