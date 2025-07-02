@@ -44,6 +44,7 @@ Ela *não executa* o código. Só mostra o texto com *formato de código*, como 
 - E muitas outras...
 
 ---------------------------------------------------
-✅ DICA FINAL:
+CONSIDERAÇÕES FINAIS:
+
 - O navegador *não mostra as tags, ele usa elas para saber **como mostrar* o conteúdo.
 - Aprender as tags básicas é o primeiro passo para criar sites!
