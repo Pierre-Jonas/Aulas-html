@@ -1,0 +1,69 @@
+Navegação, Listas e Links
+
+----------------------------------------
+
+Navegação
+
+    Usamos quando precisamos indentificar um determinado bloco de
+navegação (Links).
+
+Representado pela Tag <nav></nav>.
+
+    Nem todos os links de um documento devem estar em
+um elemento <nav></nav>. O elemento <nav></nav> destina-se
+apenas ao bloco principal de links de navegação.
+
+----------------------------------------
+
+Listas
+
+    Como o nome já diz ela faz uma listagem de conteúdo.
+
+Representado pelas Tags:
+
+<ul> --> Agrupador da lista ( Não Ordenada )
+    <li></li> --> Item da Lista
+</ul>
+
+<ol> --> Agrupador da Lista ( não ordenada )
+    <li></li> --> Item da Lista
+</ol>
+
+Mas Qual  diferença da lista ol e ul?
+
+Agrupadores de Lista
+
+ul --> Não ordrnada
+  º <li></li> Item da lista -> Mostra o conteúdo
+sem critérios de ordenação. Com uma bolinha ao lado
+por exemplo.
+
+ol --> ordenada
+ 1. <li></li> Item da lista -. Mostra p conteúdo
+com critérios de ordenação. Como números 1, 2, 3, 4...
+ao lado.
+
+-----------------------------------------
+
+Links
+
+    Links fazem a ligação conectando uma página à
+outra no HTML.
+
+    Existem 2 tipos de ligações:
+
+Internas -> Páginas do meu site
+Externas -> Páginas de outros sites
+
+Representado peka Tag <a></a>
+
+    Porém, par fazer essas ligações entre apenas
+Páginas, usando apenas a Tag <a></a> sozinha não
+acontece nada.Devemos usar um de seus atributos
+chamdo "href".
+
+Ex:
+<a href="minha-pagina.html">Minha Página</a>
+
+    Assim usnado o href, conseguimos fazer com
+que o usuário navegue para outras Páginas.
